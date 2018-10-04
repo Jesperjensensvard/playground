@@ -1,3 +1,2 @@
-alert = "hej"
 
-console.log(alert)
+console.log("it works")
