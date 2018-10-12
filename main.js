@@ -1,6 +1,6 @@
  
 
-function changecolor() {
+ function changecolor() {
 
   var bgColor = document.body.style.backgroundColor
 
