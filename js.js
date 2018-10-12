@@ -1,20 +1,26 @@
 
-/* // formula for square  */
-function square(width, height){
+/* mini library */
+
+/* /* // formula for square  */
+/* function square(width, height){
     return width * height;
 }
-
+ */
 /* // formula for triangel */ 
-function triangel(base, height){
-return base *  height /2;
+/* function triangel(base, height){
+return base *  height /2; */
 
-}
+/* } *//* 
 
 /**
  *  // formula for circle
  * @param width {number} 
-   */
-function circle(radius){
+   */ 
+/* function circle(radius){
     return Math.PI * radius * radius;
 }
-console.log(circle)
+console.log(circle)  */
+
+
+
+// detta är kontakt java json 

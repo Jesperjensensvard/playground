@@ -1,6 +1,6 @@
  
-
- function changecolor() {
+/* color change random */
+ /* function changecolor() {
 
   var bgColor = document.body.style.backgroundColor
 
@@ -85,3 +85,18 @@ function converttox(value) {
     }
 }
  
+ */
+
+
+
+ // detta är kontakt java json 
+
+
+ fetch("")
+ .then(function(response){
+       return response.json();
+
+ })
+ .then(function(data){
+       studentData =data;
+ })
